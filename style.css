@@ -1,0 +1,33 @@
+#img1
+{
+    border-width:1px;
+    border-color: blue;
+    border-style: solid;
+}
+
+#img2
+{
+    border-width:1px;
+    border-color: blue;
+    border-style: solid;
+}
+
+#img3
+{
+    border-width:1px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.container
+{
+    width: 100%;
+    margin: auto;
+}
+
+body
+{
+    width: 900px;
+    margin: auto;
+    padding: 100px;
+}
